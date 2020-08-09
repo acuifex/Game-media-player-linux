@@ -26,8 +26,10 @@ It is an alternative to HLDJ and SLAM but for linux.
 i will fill this later.
 
 ## TODO
-* Create interface
 * Key binding support
+* Decreace volume to slider value when talking
+* Find a way to play sounds to sink
+* Change sink names
 
 ## Donation
 This is just another way to say "Thank you"
@@ -36,3 +38,10 @@ This is just another way to say "Thank you"
 * Webmoney WME: E047450290619
 * Webmoney WMR: R188187511907
 * Webmoney WMP: P128966749605
+
+## Credits
+[Adam Feakin](mailto:csgomp@csparker.uk) [(website)](https://csparker.uk/csgoMP/) for csgoMP
+
+Users of linux and stackoverflow for asking and answering questions (sociophobia is a bitch)
+
+Library makers for their libraries
